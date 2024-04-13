@@ -1,2 +1,2 @@
 # Learning_C
-In this repository, I will be sharing my journey as I learn the C programming language. From the basics to more advanced projects, I will document my progress as I delve deeper into this iconic language.
+En este repositorio, compartiré mi viaje mientras aprendo el lenguaje de programación C. Desde lo básico hasta proyectos más avanzados, documentaré mi progreso a medida que profundice en este lenguaje.
